@@ -1,17 +1,67 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://extratvteam-tata-playlist.vercel.app/api/key.php?id=611
 
-#EXTINF:-1 tvg-id="611" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="BACKUP Tamil",B - Sirippoli
-https://bpprod4catchup.akamaized.net/live/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-TV-HD.jpeg" group-title="BACKUP Tamil",B - JAYA TV HD
+http://sansat.net:88/live/02048081503032/02048081503032/100124.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Siripoli Test
-https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-PLUS.jpg" group-title="BACKUP Tamil",B - JAYA PLUS
+http://sansat.net:88/live/02048081503032/02048081503032/100124.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh2 Siripoli Test
-https://bpprod4catchup.akamaized.net/live/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MAX.jpeg" group-title="BACKUP Tamil",B - JAYA MAX
+http://sansat.net:88/live/02048081503032/02048081503032/100122.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh3 SIRI
-https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a" group-title="NEWS",Polimer News
+http://sansat.net:88/live/02048081503032/02048081503032/100139.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-TAMIL-NADU.jpg" group-title="NEWS",NEWS 18 TAMIL NADU
+http://sansat.net:88/live/02048081503032/02048081503032/100137.m3u8
+
+#EXTINF:-1 tvg-id="184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png" group-title="Science",Nat Geo Wild
+http://sansat.net:88/live/02048081503032/02048081503032/100135.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: MOON TV
+http://sansat.net:88/live/02048081503032/02048081503032/100133.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png",Makkal TV
+http://sansat.net:88/live/02048081503032/02048081503032/100129.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/J-MOVIES.jpeg" group-title="Tamil",J MOVIES
+http://sansat.net:88/live/02048081503032/02048081503032/100121.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/MADHA-TV.jpeg" group-title="BACKUP Tamil",B - MADHA TV
+http://sansat.net:88/live/02048081503032/02048081503032/100127.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/IMAYAM-TV.png" group-title="Tamil",IMAYAM TV
+http://sansat.net:88/live/02048081503032/02048081503032/100120.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: IBC TAMIL
+http://sansat.net:88/live/02048081503032/02048081503032/100119.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: IBC BAKTHI
+http://sansat.net:88/live/02048081503032/02048081503032/100117.m3u8
+
+#EXTINF:-1 tvg-id="172" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png" group-title="Science",History TV18
+http://sansat.net:88/live/02048081503032/02048081503032/100116.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="Science",FOX LIFE HD
+http://sansat.net:88/live/02048081503032/02048081503032/100115.m3u8
+
+#EXTINF:-1 tvg-id="ts341" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e75991a/images/226.webp" group-title="Infotainment",Discovery HD World
+http://sansat.net:88/live/02048081503032/02048081503032/100113.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_kids.png" group-title="Kids",DISCOVERY KIDS TAMIL
+http://sansat.net:88/live/02048081503032/02048081503032/100112.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/DD-PODHIGAI.png" group-title="Tamil",DD PODHIGAI
+http://sansat.net:88/live/02048081503032/02048081503032/100110.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/CHUTTI-TV.jpeg" group-title="Kids",CHUTTI TV
+http://sansat.net:88/live/02048081503032/02048081503032/100108.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ADHTIYA-TV.jpg" group-title="BACKUP Tamil",B - ADHTIYA TV
+http://sansat.net:88/live/02048081503032/02048081503032/100100.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
+http://sansat.net:88/live/02048081503032/02048081503032/93731.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh4 Vijjsu
 https://rftv.wtf/live/tp/tplay.mpd?contentID=496.m3u8
