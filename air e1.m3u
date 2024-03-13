@@ -1,9 +1,9 @@
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-TV-HD.jpeg" group-title="BACKUP Tamil",B - JAYA TV HD
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-TV-HD.jpeg" group-title="",JAYA TV HD
 http://sansat.net:88/live/02048081503032/02048081503032/100124.m3u8
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-PLUS.jpg" group-title="BACKUP Tamil",B - JAYA PLUS
-http://sansat.net:88/live/02048081503032/02048081503032/100124.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-PLUS.jpg" group-title="",JAYA PLUS
+http://sansat.net:88/live/02048081503032/02048081503032/100123.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MAX.jpeg" group-title="BACKUP Tamil",B - JAYA MAX
 http://sansat.net:88/live/02048081503032/02048081503032/100122.m3u8
@@ -34,6 +34,9 @@ http://sansat.net:88/live/02048081503032/02048081503032/100120.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: IBC TAMIL
 http://sansat.net:88/live/02048081503032/02048081503032/100119.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: IBC Comedy
+http://sansat.net:88/live/02048081503032/02048081503032/100118.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",TAMIL: IBC BAKTHI
 http://sansat.net:88/live/02048081503032/02048081503032/100117.m3u8
