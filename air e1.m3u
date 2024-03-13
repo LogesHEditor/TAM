@@ -1,4 +1,8 @@
-#EXTM3U - Vijay Takker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://extratvteam-tata-playlist.vercel.app/api/key.php?id=611
+
+#EXTINF:-1 tvg-id="611" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="BACKUP Tamil",B - Sirippoli
+https://bpprod4catchup.akamaized.net/live/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Siripoli Test
 https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
