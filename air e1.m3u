@@ -1,13 +1,13 @@
 #EXTM3U - Vijay Takker
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh1 zee thirai
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Siripoli Test
 https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh2 KTV
-https://rftv.wtf/live/tp/tplay.mpd?contentID=380.m3u8
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh2 Siripoli Test
+https://bpprod4catchup.akamaized.net/live/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh3 sun
-https://rftv.wtf/live/tp/tplay.mpd?contentID=521.m3u8
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh3 SIRI
+https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh4 Vijjsu
 https://rftv.wtf/live/tp/tplay.mpd?contentID=496.m3u8
