@@ -1,7 +1,7 @@
 #EXTM3U - Vijay Takker
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh1 zee thirai
-https://rftv.wtf/live/tp/tplay.mpd?contentID=797.m3u8
+https://rftv.wtf/live/tp/tplay.mpd?contentID=611.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Logesh2 KTV
 https://rftv.wtf/live/tp/tplay.mpd?contentID=380.m3u8
@@ -273,3 +273,18 @@ https://livea.streamready.in/airtelspecialoffers/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e750230904c4f275b6a/images/308.webp" group-title="Infotainment",Airtel Entertainment Home 2
 https://livea.streamready.in/airtelentertainmenthome2/smil:common.smil/manifest.mpd
 
+
+#EXTM3U - Offline
+
+#EXTINF:-1 tvg-id="" tvg-name="Vijay Super" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png" group-title="Tamil",Vijay Super
+https://its-aadi.000webhostapp.com/sony.php?aadi=1614
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yzagpwuSr0B6LMDFTFVDXA","kid":"gwYol/6qWBK4EQHv065YiQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts611" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",Sirippoli
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="Tamil",Zee Tamil
+http://31062946988712392.ofd0126.xyz:80/play/vi920711/8hs4CbBQ8r7/712392.ts
