@@ -5,6 +5,23 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 
 
+#EXTM3U - TATA SKY TAMIL CINEMA
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil",TATA SKY TAMIL CINEMA
+http://sansat.net:88/02029761595924/9d089925dc60a821/100159.m3u8
+
+#EXTM3U - TVI HD
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="Tamil",TVI HD
+http://sansat.net:88/02029761595924/9d089925dc60a821/100162.m3u8
+
+
+#EXTM3U - IBC Comedy
+
+#EXTINF:-1 tvg-id="" group-title="Comedy" tvg-logo="",IBC Comedy
+http://sansat.net:88/02029761595924/9d089925dc60a821/100118.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2109
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp" group-title="Entertainment",Star Plus HD
